@@ -12,7 +12,7 @@ This policy explains what information we collect, how we use it, who we share it
 
 **Information you give us**
 
-- Account details: name, email address, and a password or a sign-in through Google when you create an account.
+- Account details: name, email address, and a password or a sign-in through Apple or Google when you create an account.
 - Onboarding answers: the muscle groups you want to focus on and other fitness preferences you enter.
 - Support messages: anything you send us when you contact us.
 
@@ -20,11 +20,12 @@ This policy explains what information we collect, how we use it, who we share it
 
 - Workout activity: nodes and ranks you complete, exercises done, and your progress.
 - Subscription status: whether you have Flexo Pro, a free trial, or a free account.
+- Voice input: if you turn on voice rep counting, Flexo uses your microphone and your device's speech recognition to count your reps. We do not record or store the audio. Apple or Google may process your speech to turn it into text.
 
 **Information collected automatically**
 
 - Device and usage data: device model, operating system, app version, language, crash logs, and how you use features.
-- Identifiers: an account ID and a device or advertising identifier, which we use for analytics and to show ads.
+- Identifiers: an account ID and a device identifier, which we use for analytics.
 
 We do not collect your precise location. We do not receive your payment card number. Purchases are handled by the Apple App Store or Google Play, which tell us only whether your subscription is active.
 
@@ -40,15 +41,16 @@ Some fitness information, such as your training goals, may be considered health-
 - To send service messages, push notifications, and marketing emails where you have agreed to them. You can opt out at any time.
 - To protect Flexo and its users from fraud and abuse, and to meet legal obligations.
 
-We do not sell your personal information for money. If we show ads, our ad partners may receive your device identifier and usage data so they can show you relevant ads. You can limit this in your device settings.
+We do not sell your personal information, and Flexo does not show ads.
 
 ## 4. Who we share information with
 
 We share information only with service providers that help us run Flexo, and only as needed:
 
-- Sign-in provider: Google, if you choose to sign in with Google.
+- Sign-in providers: Apple or Google, if you choose to sign in with them.
+- Speech recognition: Apple or Google, which turn your speech into text when you use voice rep counting.
 - Hosting and database providers: Supabase, which hosts our database and handles sign-in.
-- Analytics, crash reporting, and advertising: providers we may add as Flexo grows, such as analytics tools and ad networks. If we add one, we will update this policy.
+- Analytics and crash reporting: providers we may add as Flexo grows. If we add one, we will update this policy.
 - Subscription and billing: Apple App Store and Google Play, and a subscription management service if we use one.
 
 We may also disclose information if the law requires it, to protect rights and safety, or as part of a merger or sale of the business. We may share aggregated or de-identified data that cannot identify you.
@@ -61,7 +63,7 @@ We keep your information while your account is active. When you delete your acco
 
 You can access, correct, or delete your information, and withdraw consent for optional uses. To do this, use the settings in the app or email flexo.support@gmail.com. Depending on where you live (for example Canada, the EU or UK, or California), you may have additional rights, such as data portability, objecting to certain processing, or complaining to your local privacy regulator. We will respond within the time the law requires.
 
-You can turn off advertising tracking in your device settings and turn off notifications at any time.
+You can turn off notifications and microphone access in your device settings at any time.
 
 ## 7. Security
 

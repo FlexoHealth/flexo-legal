@@ -20,7 +20,7 @@ Flexo provides general fitness information and workout suggestions. It is not me
 
 ## 5. Flexo Pro subscription
 
-- **Free trial:** New Flexo Pro subscribers may get a 7-day free trial. If you do not cancel before the trial ends, you will be charged the subscription price. Flexo Pro is offered monthly and yearly. The current price is shown in the app before you subscribe.
+- **Free trial:** New Flexo Pro subscribers may get a 7-day free trial. If you do not cancel before the trial ends, you will be charged the subscription price. Flexo Pro is offered as a monthly subscription. The current price is shown in the app before you subscribe.
 - **Billing:** Subscriptions are purchased through the Apple App Store or Google Play and charged to your store account. Payment and billing are handled by the store, and its terms apply.
 - **Renewal:** Flexo Pro renews automatically at the end of each billing period until you cancel.
 - **Cancelling:** Cancel at least 24 hours before the end of the current period in your App Store or Google Play subscription settings. Deleting the app does not cancel your subscription.
